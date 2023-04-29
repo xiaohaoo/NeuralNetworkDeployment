@@ -1,4 +1,4 @@
-# machine-learning-deployment
+# NeuralNetworkDeployment
 
 本项目主要用来探索工业级（区别于学界只用Python构建Idea即可）深度学习模型的部署，为了追求卓越的性能，使用C/C++语言构建。支持Mac、Linux、Windows系统。
 
